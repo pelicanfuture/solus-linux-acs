@@ -1,1 +1,1 @@
-# solus-linux-acs
+# Solus Linux Kernel with ACS Patch
